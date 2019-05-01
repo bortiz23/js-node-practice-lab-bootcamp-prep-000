@@ -37,7 +37,7 @@ do all of the outputting to your terminal.
 console.log('Name:');
 console.log(name);
 
-console.log(parseInt(Height)+1)
+console.log(parseInt(Height);
 console.log(height);
 ```
 
